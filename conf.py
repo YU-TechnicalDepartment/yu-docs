@@ -1,0 +1,9 @@
+project = 'My Documentation'
+copyright = '2025, Your Name'
+author = 'Your Name'
+extensions = []
+templates_path = ['_templates']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+language = 'ja'
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
