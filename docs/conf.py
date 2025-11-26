@@ -1,6 +1,6 @@
-project = 'My Documentation'
-copyright = '2025, Your Name'
-author = 'Your Name'
+project = 'YU1000-docs'
+copyright = '2025, YU1000'
+author = 'YU1000'
 extensions = []
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
